@@ -1,0 +1,9 @@
+                             java code
+
+
+	# TO write a java code for sequnce arrangement of alphabet
+	letter
+
+		#first captile leter present
+
+		#next small letter
