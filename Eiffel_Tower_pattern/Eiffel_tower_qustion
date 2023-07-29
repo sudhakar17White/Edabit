@@ -1,0 +1,29 @@
+Eiffel Tower pattern
+
+Program to print Eiffel Tower pattern
+
+Sample Input:
+
+4
+
+Sample Output:
+
+1
+
+ 1
+
+1
+
+1
+
+222
+
+222
+
+222
+
+33333
+
+33333 
+
+4444444
